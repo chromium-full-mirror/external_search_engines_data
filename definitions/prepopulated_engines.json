@@ -22,13 +22,13 @@
     // use a lower number. This number is used by UMA stats and must be updated
     // to include the full range or else not all engines will be counted in
     // stats.
-    "kMaxPrepopulatedEngineID": 116,
+    "kMaxPrepopulatedEngineID": 117,
 
     // Increment this if you change the data in ways that mean users with
     // existing data should get a new version. Otherwise, existing data may
     // continue to be used and updates made here will not always appear.
     // Also then run tools/search_engine_choice/generate_search_engine_icons.py.
-    "kCurrentDataVersion": 213
+    "kCurrentDataVersion": 214
   },
 
   // The following engines are included in country lists and are added to the
@@ -330,6 +330,30 @@
       "suggest_url": "https://suggest.panda-search.org/suggest?q={searchTerms}",
       "type": "SEARCH_ENGINE_PANDASEARCH",
       "id": 104
+    },
+
+    "perplexity": {
+      "name": "Perplexity",
+      "keyword": "perplexity.ai",
+      "favicon_url": "https://www.perplexity.ai/favicon.ico",
+      "base_builtin_resource_id": "SEARCH_ENGINE_PERPLEXITY",
+      "logo_url": "https://frontend-cdn.perplexity.ai/_agi_assets/chrome/new-tab-logo-v1.png",
+      "search_url": "https://www.perplexity.ai/search?q={searchTerms}",
+      "suggest_url": "https://suggest.perplexity.ai/suggest?q={searchTerms}",
+      "type": "SEARCH_ENGINE_PERPLEXITY",
+      "id": 117,
+      "regulatory_extensions": [
+        {
+          "variant": "RegulatoryExtensionType::kAndroidEEA",
+          "search_params": "utm_source=chrome_android",
+          "suggest_params": "source=chrome_android"
+        },
+        {
+          "variant": "RegulatoryExtensionType::kDefault",
+          "search_params": "utm_source=chrome",
+          "suggest_params": "source=chrome"
+        }
+      ]
     },
 
     "privacywall": {
