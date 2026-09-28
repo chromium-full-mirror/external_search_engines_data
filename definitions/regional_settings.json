@@ -189,11 +189,11 @@
         "&google",
         "&brave",
         "&duckduckgo",
+        "&perplexity",
         "&ecosia",
         "&bing",
         "&yahoo_at",
-        "&qwant",
-        "&privacywall"
+        "&qwant"
       ]
     },
     "AU": {
@@ -238,10 +238,10 @@
         "&brave",
         "&duckduckgo",
         "&ecosia",
+        "&perplexity",
         "&bing",
         "&qwant",
-        "&privacywall",
-        "&yahoo_emea"
+        "&privacywall"
       ]
     },
     "BF": {
@@ -257,12 +257,12 @@
       "search_engines": [
         "&google",
         "&brave",
+        "&perplexity",
         "&duckduckgo",
         "&bing",
-        "&yep",
         "&ecosia",
-        "&qwant",
-        "&yahoo_emea"
+        "&yep",
+        "&qwant"
       ]
     },
     "BJ": {
@@ -404,11 +404,11 @@
       "search_engines": [
         "&google",
         "&brave",
+        "&perplexity",
         "&duckduckgo",
         "&bing",
         "&ecosia",
         "&qwant",
-        "&yahoo_emea",
         "&privacywall"
       ]
     },
@@ -417,11 +417,11 @@
         "&google",
         "&seznam",
         "&brave",
+        "&perplexity",
         "&duckduckgo",
         "&bing",
         "&ecosia",
-        "&privacywall",
-        "&yahoo_emea"
+        "&privacywall"
       ]
     },
     "DE": {
@@ -430,10 +430,10 @@
         "&duckduckgo",
         "&brave",
         "&ecosia",
+        "&perplexity",
         "&bing",
         "&startpage",
-        "&yahoo_de",
-        "&qwant"
+        "&yahoo_de"
       ]
     },
     "DK": {
@@ -441,11 +441,11 @@
         "&google",
         "&brave",
         "&duckduckgo",
+        "&perplexity",
         "&bing",
         "&ecosia",
         "&qwant",
-        "&yahoo_dk",
-        "&privacywall"
+        "&yahoo_dk"
       ]
     },
     "DO": {
@@ -481,10 +481,10 @@
         "&brave",
         "&duckduckgo",
         "&bing",
+        "&perplexity",
         "&ecosia",
         "&privacywall",
-        "&qwant",
-        "&yahoo_emea"
+        "&qwant"
       ]
     },
     "EG": {
@@ -500,12 +500,12 @@
       "search_engines": [
         "&google",
         "&brave",
+        "&perplexity",
         "&duckduckgo",
         "&bing",
         "&ecosia",
         "&yahoo_es",
-        "&privacywall",
-        "&qwant"
+        "&privacywall"
       ]
     },
     "ET": {
@@ -522,11 +522,11 @@
         "&google",
         "&brave",
         "&duckduckgo",
+        "&perplexity",
         "&bing",
         "&ecosia",
         "&qwant",
-        "&privacywall",
-        "&yahoo_fi"
+        "&privacywall"
       ]
     },
     "FR": {
@@ -534,11 +534,11 @@
         "&google",
         "&brave",
         "&ecosia",
+        "&perplexity",
         "&qwant",
         "&duckduckgo",
         "&bing",
-        "&yahoo_fr",
-        "&privacywall"
+        "&yahoo_fr"
       ]
     },
     "GB": {
@@ -590,12 +590,12 @@
       "search_engines": [
         "&google",
         "&brave",
+        "&perplexity",
         "&duckduckgo",
         "&bing",
         "&yahoo_emea",
         "&ecosia",
-        "&qwant",
-        "&yep"
+        "&qwant"
       ]
     },
     "GT": {
@@ -629,24 +629,24 @@
       "search_engines": [
         "&google",
         "&brave",
+        "&perplexity",
         "&duckduckgo",
         "&bing",
         "&ecosia",
         "&yep",
-        "&privacywall",
-        "&yahoo_emea"
+        "&privacywall"
       ]
     },
     "HU": {
       "search_engines": [
         "&google",
         "&brave",
-        "&bing",
+        "&perplexity",
         "&duckduckgo",
+        "&bing",
         "&ecosia",
-        "&yep",
         "&qwant",
-        "&yahoo_emea"
+        "&yep"
       ]
     },
     "ID": {
@@ -663,11 +663,11 @@
         "&google",
         "&duckduckgo",
         "&brave",
+        "&perplexity",
         "&bing",
-        "&yahoo_uk",
         "&ecosia",
-        "&privacywall",
-        "&qwant"
+        "&yahoo_uk",
+        "&privacywall"
       ]
     },
     "IL": {
@@ -712,22 +712,22 @@
         "&duckduckgo",
         "&brave",
         "&bing",
+        "&perplexity",
         "&ecosia",
         "&privacywall",
-        "&qwant",
-        "&yahoo_emea"
+        "&qwant"
       ]
     },
     "IT": {
       "search_engines": [
         "&google",
         "&brave",
-        "&bing",
+        "&perplexity",
         "&duckduckgo",
+        "&bing",
         "&ecosia",
         "&yahoo_it",
-        "&qwant",
-        "&privacywall"
+        "&qwant"
       ]
     },
     "JO": {
@@ -816,11 +816,11 @@
         "&google",
         "&duckduckgo",
         "&brave",
-        "&bing",
         "&ecosia",
+        "&perplexity",
+        "&bing",
         "&startpage",
-        "&qwant",
-        "&privacywall"
+        "&qwant"
       ]
     },
     "LK": {
@@ -838,10 +838,10 @@
         "&brave",
         "&duckduckgo",
         "&bing",
+        "&perplexity",
         "&ecosia",
         "&qwant",
-        "&yahoo_emea",
-        "&yep"
+        "&yahoo_emea"
       ]
     },
     "LU": {
@@ -849,11 +849,11 @@
         "&google",
         "&brave",
         "&duckduckgo",
+        "&perplexity",
         "&bing",
         "&ecosia",
         "&qwant",
-        "&yahoo_emea",
-        "&privacywall"
+        "&yahoo_emea"
       ]
     },
     "LV": {
@@ -862,10 +862,10 @@
         "&brave",
         "&duckduckgo",
         "&bing",
+        "&perplexity",
         "&ecosia",
         "&privacywall",
-        "&qwant",
-        "&yahoo_emea"
+        "&qwant"
       ]
     },
     "LY": {
@@ -963,10 +963,10 @@
         "&google",
         "&brave",
         "&bing",
+        "&perplexity",
         "&duckduckgo",
         "&ecosia",
         "&privacywall",
-        "&yahoo_emea",
         "&qwant"
       ]
     },
@@ -1020,10 +1020,10 @@
         "&google",
         "&duckduckgo",
         "&brave",
+        "&perplexity",
         "&bing",
         "&ecosia",
         "&privacywall",
-        "&yahoo_nl",
         "&qwant"
       ]
     },
@@ -1033,9 +1033,9 @@
         "&duckduckgo",
         "&brave",
         "&bing",
+        "&perplexity",
         "&ecosia",
         "&yahoo_emea",
-        "&privacywall",
         "&qwant"
       ]
     },
@@ -1088,35 +1088,35 @@
       "search_engines": [
         "&google",
         "&brave",
+        "&perplexity",
         "&duckduckgo",
         "&bing",
         "&ecosia",
-        "&yahoo_emea",
         "&privacywall",
-        "&qwant"
+        "&yahoo_emea"
       ]
     },
     "PT": {
       "search_engines": [
         "&google",
         "&brave",
-        "&bing",
+        "&perplexity",
         "&duckduckgo",
+        "&bing",
         "&ecosia",
-        "&yep",
         "&qwant",
-        "&yahoo_emea"
+        "&yep"
       ]
     },
     "RO": {
       "search_engines": [
         "&google",
         "&brave",
+        "&perplexity",
         "&duckduckgo",
         "&bing",
         "&yahoo_emea",
         "&ecosia",
-        "&yep",
         "&qwant"
       ]
     },
@@ -1161,11 +1161,11 @@
         "&google",
         "&duckduckgo",
         "&brave",
+        "&perplexity",
         "&bing",
         "&ecosia",
         "&yahoo_se",
-        "&qwant",
-        "&privacywall"
+        "&qwant"
       ]
     },
     "SG": {
@@ -1183,22 +1183,22 @@
         "&brave",
         "&duckduckgo",
         "&bing",
+        "&perplexity",
         "&ecosia",
-        "&yep",
         "&qwant",
-        "&yahoo_emea"
+        "&yep"
       ]
     },
     "SK": {
       "search_engines": [
         "&google",
         "&brave",
+        "&perplexity",
         "&duckduckgo",
         "&bing",
         "&seznam",
         "&ecosia",
-        "&privacywall",
-        "&yahoo_emea"
+        "&privacywall"
       ]
     },
     "SL": {
