@@ -743,9 +743,9 @@
       "search_engines": [
         "&google",
         "&yahoo_jp",
+        "&perplexity",
         "&bing",
-        "&duckduckgo",
-        "&ecosia"
+        "&duckduckgo"
       ]
     },
     "KE": {
